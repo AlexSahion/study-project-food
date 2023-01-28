@@ -1,0 +1,15 @@
+
+
+@use "sass:math";
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,700&subset-cyrillic-ext);
+@import "config/fonts";
+@import "config/functions";
+@import "config/vars";
+@import "config/reset";
+@import "config/base";
+@import "layout/header";
+@import "layout/main";
+@import "layout/footer";
+
+
+
