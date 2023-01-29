@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family: Helvetica;
-  background: url("../../img/placeholder.jpg");
+  background: url("../img/placeholder.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-color: #1A1A1A;
@@ -141,7 +141,7 @@ body {
   position: relative;
 }
 .header__logo::before {
-  content: url("../../img/Logo.png");
+  content: url("../img/Logo.png");
   position: absolute;
   top: -10px;
   left: 0;
